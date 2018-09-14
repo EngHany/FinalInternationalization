@@ -28,7 +28,7 @@
             "scripts": []
           },
           "configurations": {
-            "productionEn": {
+            "En": {
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
@@ -51,7 +51,7 @@
               "i18nLocale": "En",
               "i18nMissingTranslation": "error"
             },
-            "productionAr": {
+            "Ar": {
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
